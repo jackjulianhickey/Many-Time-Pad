@@ -257,6 +257,6 @@ def decode_the_target(target, key):
     return ans
 ```
 ### Step 11
-The answer is returned from step 9 and then printed to the screen and it should be possible
+The answer is returned from step 10 and then printed to the screen and it should be possible
 to make out what the message was originally even if some of the characters have not been
 decrypted properly.
